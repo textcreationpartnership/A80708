@@ -1,0 +1,1068 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A beneficial proposal, wherein all adventurers are gainers for exchanging the blank tickets, and 10l. benefit tickets in the Million-Adventure, by making them much more valuable than now they are, to all persons that shall bring them into this proposal, made by R. Carter, and others. As likewise shewing, the great difference betwixt those proposals made by Tho. Neale, and Dalby Thomas, Esquires, and this now proposed; which last will appear to be much more the advantage to the adventurers than that formerly proposed by T.N. and D.T.</title>
+            <author>Carter, Richard, 17th/18th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80708</idno>
+            <idno type="STC">Wing C663A</idno>
+            <idno type="STC">ESTC R219164</idno>
+            <idno type="EEBO-CITATION">99896911</idno>
+            <idno type="PROQUEST">99896911</idno>
+            <idno type="VID">135554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135554)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2455:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A beneficial proposal, wherein all adventurers are gainers for exchanging the blank tickets, and 10l. benefit tickets in the Million-Adventure, by making them much more valuable than now they are, to all persons that shall bring them into this proposal, made by R. Carter, and others. As likewise shewing, the great difference betwixt those proposals made by Tho. Neale, and Dalby Thomas, Esquires, and this now proposed; which last will appear to be much more the advantage to the adventurers than that formerly proposed by T.N. and D.T.</title>
+                  <author>Carter, Richard, 17th/18th cent.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Marshal,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Neale, Thomas, d. 1699? --  Early works to 1800.</term>
+               <term>Thomas, Dalby, --  Sir --  Early works to 1800.</term>
+               <term>Lotteries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135554:1"/>
+            <pb facs="tcp:135554:1"/>
+            <p>A <hi>Beneficial Propoſal,</hi> WHEREIN All Adventurers are Gainers: For exchanging the Blank Tickets, and 10 <abbr>
+                  <hi>l.</hi>
+               </abbr> Benefit Tickets in the <hi>Million-Adventure,</hi> by making them much more Valuable than now they are, to all perſons that ſhall bring them into this PROPOSAL, MADE BY R. CARTER, And Others.</p>
+            <p>As Likewiſe Shewing,</p>
+            <p>The great Difference betwixt thoſe Propoſals made by <hi>Tho. Neale,</hi> and <hi>Dalby Thomas,</hi> Eſquires, and this now propoſed; which laſt will ap<g ref="char:EOLhyphen"/>pear to be much more the Advantage to the Adventurers than that formerly propoſed by <hi>T. N.</hi> and <hi>D. T.</hi>
+            </p>
+            <p>London, <hi>Printed for</hi> W. Marſhal. 1695</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135554:2"/>
+            <pb n="3" facs="tcp:135554:2"/>
+            <head>
+               <hi>A</hi> Beneficial Propoſal, Wherein all Adventurers are Gainers, <hi>&amp;c.</hi>
+            </head>
+            <p>ALL perſons that bring in their Tickets into either of theſe Propoſals, inſtead of receiving Tickets or de<g ref="char:EOLhyphen"/>benters of one pound a year for ſixteen years ſuc<g ref="char:EOLhyphen"/>ceſſively; ſhall receive Tickets or Debenters payable in ſome one or two of the ſixteen years, according to the ſeve<g ref="char:EOLhyphen"/>ral Tables hereafter expreſt, as their Fortunes lead them to.</p>
+            <p>By the Propoſal for the Blank Tickets, the Number of Tic<g ref="char:EOLhyphen"/>kets, or Debenters<g ref="char:punc">▪</g> of 1 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> are divided to every one, in proportion to the time they are to ſtay for payment; So that thoſe that receive their money ſooner, receive leſs, and thoſe who ſtay longer, receive the more, by which means all perſons will be Gainers; for the worſt Blank Ticket will by this me<g ref="char:EOLhyphen"/>thod be worth 9 <abbr>
+                  <hi>l.</hi>
+               </abbr> and a 10 <abbr>
+                  <hi>l.</hi>
+               </abbr> Benefit 90 <abbr>
+                  <hi>l.</hi>
+               </abbr> diſcounting In<g ref="char:EOLhyphen"/>tereſt for the time, till come due, at 10 <hi>per Cent. per annum;</hi> which is above a fifth part more than they will now ſell for; and if diſcount 10 <hi>per Cent.</hi> Intereſt, and Intereſt upon Inter<g ref="char:EOLhyphen"/>eſt, every Blank Ticket will then be worth about 8 <abbr>
+                  <hi>l.</hi>
+               </abbr> which is more then by Mr. <hi>Neals</hi> and Mr. <hi>Thomas's.</hi>
+            </p>
+            <p>Every Blank Ticket, brought into this Adventure, is to be marked by the Propriator; with one of the firſt 16. Letters in the Alphabet; for which the Receivers, Goldſmiths, and others hereafter named and appointed; will give the owner of ſuch Blank Ticket a Receipt for the ſame; with ſecurity that they will return to the ſaid Propriator of ſuch Ticket, ſo ma<g ref="char:EOLhyphen"/>ny 1 <abbr>
+                  <hi>l.</hi>
+               </abbr> Tickets or Debenters payable on the <hi>Exchequer;</hi> at ſuch and ſuch times, as fortune allows them; according to the following Table of proportion and Alotment.</p>
+            <pb n="4" facs="tcp:135554:3"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>Firſt year</cell>
+                     <cell>11 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell rows="8"> </cell>
+                     <cell>
+                        <hi>Payable at Michaelmas</hi>
+                     </cell>
+                     <cell>1695</cell>
+                     <cell rows="8"> </cell>
+                  </row>
+                  <row>
+                     <cell>* Second—</cell>
+                     <cell>12 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1696</cell>
+                  </row>
+                  <row>
+                     <cell>Third—</cell>
+                     <cell>12 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1697</cell>
+                  </row>
+                  <row>
+                     <cell>* Fourth—</cell>
+                     <cell>13 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>* Fifth—</cell>
+                     <cell>14 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1699</cell>
+                  </row>
+                  <row>
+                     <cell>* Sixth—</cell>
+                     <cell>14 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1700</cell>
+                  </row>
+                  <row>
+                     <cell>* Seventh—</cell>
+                     <cell>15 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1701</cell>
+                  </row>
+                  <row>
+                     <cell>** Eight—</cell>
+                     <cell>16 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1702</cell>
+                  </row>
+                  <row>
+                     <cell>* Ninth—</cell>
+                     <cell>17 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>of which 16 <abbr>
+                           <hi>l.</hi>
+                        </abbr> in</cell>
+                     <cell>—</cell>
+                     <cell>1703</cell>
+                     <cell>and 1 <abbr>
+                           <hi>l.</hi>
+                        </abbr> in 1701</cell>
+                  </row>
+                  <row>
+                     <cell>Tenth—</cell>
+                     <cell>17 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>of which 16 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1704</cell>
+                     <cell>and 1 <abbr>
+                           <hi>l.</hi>
+                        </abbr> in 1697</cell>
+                  </row>
+                  <row>
+                     <cell>* Eleventh</cell>
+                     <cell>18 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>of which 16 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1705</cell>
+                     <cell>and 2 <abbr>
+                           <hi>l.</hi>
+                        </abbr> in 1700</cell>
+                  </row>
+                  <row>
+                     <cell>* Twelfth</cell>
+                     <cell>18 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>of which 16 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1706</cell>
+                     <cell>and 2 <abbr>
+                           <hi>l.</hi>
+                        </abbr> in 1699</cell>
+                  </row>
+                  <row>
+                     <cell>* Thirteenth</cell>
+                     <cell>19 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>of which 16 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1707</cell>
+                     <cell>and 3 <abbr>
+                           <hi>l.</hi>
+                        </abbr> in 1698</cell>
+                  </row>
+                  <row>
+                     <cell>* Fourteenth</cell>
+                     <cell>19 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>of which 16 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1708</cell>
+                     <cell>and 3 <abbr>
+                           <hi>l.</hi>
+                        </abbr> in 1697</cell>
+                  </row>
+                  <row>
+                     <cell>Fifteenth—</cell>
+                     <cell>20 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>of which 16 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1709</cell>
+                     <cell>and 4 <abbr>
+                           <hi>l.</hi>
+                        </abbr> in 1696</cell>
+                  </row>
+                  <row>
+                     <cell>* Sixteenth—</cell>
+                     <cell>21 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>of which 16 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1710</cell>
+                     <cell>and 5 <abbr>
+                           <hi>l.</hi>
+                        </abbr> in 1695</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">256 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell cols="4"> </cell>
+                  </row>
+               </table>
+            </p>
+            <div type="section">
+               <p>The proof of this Table and what Advantage it is to the Adventurers.</p>
+               <p>A Blank Ticket is now ſold for 6 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> the price Currant.</p>
+               <p>If the Letter the Adventurer puts upon his Blank Ticket, comes up with the year 1695. then all thoſe Adventurers that put that ſame Letter on their Blank Tickets will have paid them at <hi>Michaelmas,</hi> 1695. 11 <abbr>
+                     <hi>l.</hi>
+                  </abbr> by Eleven ſeveral Tickets, or Debenters of 1 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Each, all payable on the <hi>Exchecquer;</hi> at that time in lieue of 16. their Ticket intitled them to before, for 16 years ſucceſſively.</p>
+               <p>If it comes up with the year 1710. they will have 5 <abbr>
+                     <hi>l.</hi>
+                  </abbr> paid them at <hi>Michaelmas,</hi> 1695. and their whole 16 <abbr>
+                     <hi>l.</hi>
+                  </abbr> more at <hi>Mi<g ref="char:EOLhyphen"/>chaelmas,</hi> 1710. which 16 <abbr>
+                     <hi>l.</hi>
+                  </abbr> ſtands them in but 1 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> according to the now price Currant.</p>
+               <p>The reſt are of proportionable Advantage, as any one may ſee upon a plain Calculation, and the worſt years payment, al<g ref="char:EOLhyphen"/>lowing intereſt thereon, at 10 <hi>per Cent. per Annum,</hi> makes out 9 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for every Blank Ticket thus Adventured; which fully makes good my Title of a Beneficial propoſal, wherein all ad<g ref="char:EOLhyphen"/>venturers will be Gainers.</p>
+               <pb n="5" facs="tcp:135554:3"/>
+               <p>And to make good the plain Advantage and Incourage<g ref="char:EOLhyphen"/>ment to the Adventurers; it is propoſed by ſome of the Receiv<g ref="char:EOLhyphen"/>ers, Goldſmiths and others, that thoſe that ſhall happen to have their Alotment of payment in either the firſt two years, or laſt two, <hi>viz.</hi> 1695. 1696. 1709. 1710. Shall have imediate<g ref="char:EOLhyphen"/>ly paid them down 8 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for every Ticket ſo Adventured, and happen ſuch payment (if the Propriator thinks fit to accept it) and for the other Alotments as they can agree; ſo that by this it evidently appears that every Blank Ticket will be more valuable then now they are, to ſell them for 6 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> a peice, or ſuch like ſum.</p>
+               <p>Note, the undertakers will be at the charge of Examining at the <hi>Transfer-Office,</hi> to ſee all the Tickets thus adventured be good; and if any ſhould happen to be Counterfeit, or any de<g ref="char:EOLhyphen"/>mur ſhould be on them, being not fairly come by, they ſhall not be adventured, but notice given to the partys that brought them to the Goldſmiths, and others to be adventured, they having books on purpoſe to enter the ſame.</p>
+            </div>
+            <div type="section"><!-- removed @N: 'Trustees' -->
+               <head>The Truſtees.</head>
+               <p>
+                  <hi>The Truſtees</hi> for the due management of this Exchanged ad<g ref="char:EOLhyphen"/>venture, are,</p>
+               <p>The Honourable Colonel <hi>Philip Howard,</hi> Sir <hi>Ralph Dutton,</hi> Sir <hi>Charles Windham,</hi> Major <hi>Manly,</hi> Mr. <hi>Simon Smith,</hi> and Mr. <hi>Harriſon,</hi> Merchants, with ſeveral other Gentlemen of Quality, and Merchants of good Integrity, do promiſe to be preſent, to ſee all things fairly perfor<g ref="char:EOLhyphen"/>med.</p>
+            </div>
+            <div type="section"><!-- removed @N: 'Receivers' -->
+               <pb n="6" facs="tcp:135554:4"/>
+               <head>Receivers.</head>
+               <p>Mr. <hi>Smith</hi> and Mr. <hi>Spynks</hi> at the <hi>Graſhopper</hi> in <hi>Lumbard-ſtreet,</hi> Capt. <hi>Paſſil</hi> at the <hi>Kings Arms</hi> in <hi>Cheapſide,</hi> Mr. <hi>Sey<g ref="char:EOLhyphen"/>more</hi> at the 3 <hi>Flower de luces</hi> in <hi>Fleetſtreet,</hi> Mr. <hi>Hammerſly</hi> at the <hi>Marygold,</hi> Mr. <hi>Adams</hi> at the <hi>Black Horſe</hi> in the <hi>Strand,</hi> Mr. <hi>Spakeman</hi> next <hi>Northumberland Houſe,</hi> Mr. <hi>Goddard</hi> at the <hi>Bunch of Grapes</hi> in the <hi>Pall Mall,</hi> Mr. <hi>Osburn</hi> at the <hi>George-lnn-Gate</hi> in <hi>Southwark,</hi> Goldſmiths; Mr. <hi>Davis</hi> next the <hi>Ant<g ref="char:EOLhyphen"/>verp-Tavern</hi> in <hi>Threadneedleſtreet,</hi> Scrivener; and of the Un<g ref="char:EOLhyphen"/>dertakers at <hi>Whitehall-Coffee houſe</hi> over-againſt <hi>Scotland-yard:</hi> Where any Goldſmith of good Repute, that have Friends that will bring in Tickets to this Propoſal, may be accommo<g ref="char:EOLhyphen"/>dated with a Book, with the ſame Allowances and Advanta<g ref="char:EOLhyphen"/>ges as the other Receivers have from the Undertakers.</p>
+               <p>Who will all of them give the following Receipt, and ſecurity to thoſe that ſhall bring any Blank Tickets to be thus Adven<g ref="char:EOLhyphen"/>tured by way of Exchange.</p>
+               <q>Received the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 1694. of <hi>A. B.</hi> a Blank Ticket in the Million Adventure, <hi>N<hi rend="sup">o</hi>.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Adventured upon the Letter <hi>Q.</hi> on the propoſals publiſhed <hi>per. R. Carter, &amp;c.</hi> In lieue of which I promiſe to deliver to the ſaid <hi>A. B.</hi> or Bearer, ſo many Tick<g ref="char:EOLhyphen"/>ets or Debenters of 1 <abbr>
+                     <hi>l</hi>
+                  </abbr> each on the <hi>Exchecquer;</hi> for ſuch time or times of payment as their fortune by this Adventure allots them; within 14 days after drawn.</q>
+               <p>Books ſhall be delivered to the Goldſmiths and others, above<g ref="char:EOLhyphen"/>mentioned receivers by the 1ſt of <hi>March,</hi> and this Adventure ſhall be drawn the 1ſt of <hi>April</hi> following, with what ſhall then be brought in, though they be but ten of each letter to make a begining to demonſtrate to the world this great advantage; and ſo will continue Drawing the 1ſt of every month following, for ſome time; and if ſhould happen to be more of ſome Let<g ref="char:EOLhyphen"/>ters then others, thoſe firſt brought in ſhall be Adventured, and the others declared not adventured at the time of drawing, but ſhall be the firſt perferred in the next.</p>
+            </div>
+            <div type="section"><!-- removed @N: 'Manner of Drawing' -->
+               <head>Manner of Drawing.</head>
+               <p>That publick notice of the time and place of every drawing
+<pb n="7" facs="tcp:135554:4"/>being firſt given; the ſeveral Books in which the Tickets are entred being produced, ſixteen papers of like ſhape and ſize, each marked with one of the ſaid ſixteen letters ſhall be produc<g ref="char:EOLhyphen"/>ed, and ſixteen other like papers, each of them numbred with one of the 16. Years in which the <hi>Tickets</hi> are payable, as 1695. to 1710 ſhall be alſo produced, and then in preſence of ſuch of the <hi>Truſtees,</hi> Receivers and Adventurers, as pleaſe to be pre<g ref="char:EOLhyphen"/>ſent<g ref="char:punc">▪</g> the 16 papers <hi>marked</hi> with Letters ſhall be Rolled, ſew'd up, and put into one Box: and the other 16 papers with the number of the Years of payment ſhall be Rolled, ſew'd up and put into one other Box: and being well <hi>ſhaken</hi> together, a per<g ref="char:EOLhyphen"/>ſon approved of by the <hi>Truſtees</hi> and <hi>Adventurers</hi> preſent, Shall pull out a paper <hi>marked</hi> with a letter from one Box, and one other perſon likewiſe approved of; ſhall at the ſame time pull out a yearly number from the other Box; both which ſhall be entred in a Book, and ſigned by three of the <hi>Truſtees</hi> afore<g ref="char:EOLhyphen"/>ſaid; which numbred paper ſo drawn ſhall Intitle all thoſe perſons whoſe <hi>Tickets</hi> are endorſed with the letter that was drawn againſt it to the ſeveral ſums payable, according to the Table aforeſaid. As for example:</p>
+               <p>The ſeveral letters of the Alphabet are from <hi>A.</hi> to <hi>Q.</hi> Inclu<g ref="char:EOLhyphen"/>ſive; ſuppoſe the letter firſt drawn be <hi>Q.</hi> and the number drawn againſt it be 1695. the ſaid number Entitles all, and each of thoſe <hi>Tickets</hi> which are endorſt with the letter <hi>Q.</hi> to Eleven <hi>Tickets</hi> of 20 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 
+                  <hi>per Ticket,</hi> all payable on the <hi>Exchecquer, Michaelmas</hi> 1695. which is the firſt year.</p>
+               <p>Suppoſe the next paper drawn be <hi>D.</hi> and the number drawn againſt it be 1710. the ſaid number Entitles each of thoſe <hi>Tick<g ref="char:EOLhyphen"/>ets</hi> Endorſt with the letter <hi>D.</hi> to twenty one <hi>Tickets,</hi> whereof ſixteen are payable the ſixteenth year, <hi>Michaelmas,</hi> 1710. and five of the firſt year, <hi>Michaelmas,</hi> 1695. and ſo of the reſt, as <hi>per</hi> the Table.</p>
+               <p>Note, every perſon that brings in <hi>Blank Tickets</hi> to this propoſal, hath their whole 16 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for every <hi>Ticket</hi> divided amongſt the Adventurers; without reſerving any part to the Undertakers for their Charges and Labour, and Receivers trou<g ref="char:EOLhyphen"/>ble, (which is done by that propoſed, by Mr. <hi>Neal,</hi> and Mr. <hi>Thomas</hi>) and therefore it is propoſed that every perſon receiv<g ref="char:EOLhyphen"/>ing his exchanged fortune of 1 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>Tickets,</hi> or <hi>Debenters,</hi> do pay for Charges, and Labour, for every Alotment 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> to the Gold<g ref="char:EOLhyphen"/>ſmiths and others, from whence they Receive the ſame.</p>
+               <pb n="8" facs="tcp:135554:5"/>
+               <p>Here follows Mr. <hi>Neals</hi> and Mr. <hi>Thomas's</hi> Table of Calcu<g ref="char:EOLhyphen"/>lation, for the Blank Tickets in the <hi>Million Adventure;</hi> and the difference betwixt the above propoſed by <hi>R. Carter,</hi> which is as follows.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Firſt year</cell>
+                        <cell cols="2">11 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>
+                           <hi>Payable at Michaelmas</hi>
+                        </cell>
+                        <cell cols="2">1695</cell>
+                     </row>
+                     <row>
+                        <cell>Second</cell>
+                        <cell cols="2">11 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>—</cell>
+                        <cell cols="2">1696</cell>
+                     </row>
+                     <row>
+                        <cell>Third</cell>
+                        <cell cols="2">12 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>—</cell>
+                        <cell cols="2">1697</cell>
+                     </row>
+                     <row>
+                        <cell>Fourth</cell>
+                        <cell cols="2">12 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>—</cell>
+                        <cell cols="2">1698</cell>
+                     </row>
+                     <row>
+                        <cell>Fifth</cell>
+                        <cell cols="2">13 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>—</cell>
+                        <cell cols="2">1699</cell>
+                     </row>
+                     <row>
+                        <cell>Sixth</cell>
+                        <cell cols="2">13 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>—</cell>
+                        <cell cols="2">1700</cell>
+                     </row>
+                     <row>
+                        <cell>Seventh</cell>
+                        <cell cols="2">14 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>—</cell>
+                        <cell cols="2">1701</cell>
+                     </row>
+                     <row>
+                        <cell>Eighth</cell>
+                        <cell cols="2">14 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>—</cell>
+                        <cell cols="2">1702</cell>
+                     </row>
+                     <row>
+                        <cell>Ninth</cell>
+                        <cell cols="2">16 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>—</cell>
+                        <cell cols="2">1703</cell>
+                     </row>
+                     <row>
+                        <cell>Tenth</cell>
+                        <cell>17 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>of which 16 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in</cell>
+                        <cell>—</cell>
+                        <cell>1704</cell>
+                        <cell>and 1 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in 1701</cell>
+                     </row>
+                     <row>
+                        <cell>Eleventh</cell>
+                        <cell>17 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>of which 16 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in</cell>
+                        <cell>—</cell>
+                        <cell>1705</cell>
+                        <cell>and 1 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in 1700</cell>
+                     </row>
+                     <row>
+                        <cell>Twelfth</cell>
+                        <cell>17 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>of which 16 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in</cell>
+                        <cell>—</cell>
+                        <cell>1706</cell>
+                        <cell>and 1 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in 1699</cell>
+                     </row>
+                     <row>
+                        <cell>Thirteenth</cell>
+                        <cell>18 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>of which 16 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in</cell>
+                        <cell>—</cell>
+                        <cell>1707</cell>
+                        <cell>and 2 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in 1698</cell>
+                     </row>
+                     <row>
+                        <cell>Fourteenth</cell>
+                        <cell>18 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>of which 16 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in</cell>
+                        <cell>—</cell>
+                        <cell>1708</cell>
+                        <cell>and 2 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in 1697</cell>
+                     </row>
+                     <row>
+                        <cell>Fifthteenth</cell>
+                        <cell>20 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>of which 16 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in</cell>
+                        <cell>—</cell>
+                        <cell>1709</cell>
+                        <cell>and 4 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in 1696</cell>
+                     </row>
+                     <row>
+                        <cell>Sixteenth</cell>
+                        <cell>20 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell>of which 16 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in</cell>
+                        <cell>—</cell>
+                        <cell>1710</cell>
+                        <cell>and 4 <abbr>
+                              <hi>l.</hi>
+                           </abbr> in 1695</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">243 <abbr>
+                              <hi>l,</hi>
+                           </abbr>
+                        </cell>
+                        <cell cols="4"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Note, the difference in the two propoſals made betwixt Mr. <hi>Neal</hi> and <hi>R Carter, viz.</hi> Mr. <hi>Neals</hi> 16 Lots for every 16 Blank Tickets, brought to his propoſal, makes in all 243 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and that by <hi>R. Carter,</hi> 16 Lots for every 16 Blank Tickets makes 256 <abbr>
+                     <hi>l.</hi>
+                  </abbr> as by caſting up each Table does appear; ſo the difference is on<g ref="char:EOLhyphen"/>ly 13 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in 16 Blank Tickets, Mr. <hi>Neal</hi> and Mr. <hi>Thomas</hi> have carved out for themſelves, for charges, labour, and pains; (out of which profit they may very well publiſh, as they did in their propoſals; that all people ſhall have their <hi>Tickets</hi> regi<g ref="char:EOLhyphen"/>ſtred at the <hi>Transfer-Office,</hi> to prevent Counterfeits Gratis) and by this of <hi>R. Carter;</hi> hath all perſons their whole 16 <abbr>
+                     <hi>l.</hi>
+                  </abbr> propor<g ref="char:EOLhyphen"/>tioned, which makes 11 Lots in the 16 better than Mr. <hi>Neals,</hi> by 1 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a year, and one Lot 2 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a year, which you may find marked in my Table thus, * ſo in lieue of the 13 <abbr>
+                     <hi>l.</hi>
+                  </abbr> their pro<g ref="char:EOLhyphen"/>fit and Advantage in 16 <hi>Tickets,</hi> I propoſe onely 16 Crowns, which is 4 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for charges, and trouble: So that by this propo<g ref="char:EOLhyphen"/>ſal, the Adventurers, will have 9 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in every 16 <hi>Blank Tickets</hi> to
+<pb n="9" facs="tcp:135554:5"/>be divided, ſome where amongſt them; more then in Mr. <hi>Neals</hi> and <hi>Thomas</hi>'s</p>
+               <p>Note likewiſe, that Mr. <hi>Neal</hi> and Mr. <hi>Thomas</hi> in their pro<g ref="char:EOLhyphen"/>poſal for the Benefits, for every 16 <hi>Benefit Tickets</hi> of 10 <abbr>
+                     <hi>l.</hi>
+                  </abbr> each, have carved out a good handſome ſhare for themſelves, not leſs then 140 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in every 16 <hi>Tickets,</hi> (for trouble and Charg<g ref="char:EOLhyphen"/>es) but by my following propoſal for 10 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Benefits, all perſons have their whole payment of money divided into ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veral Alotments, as by the following Table, and 1 <abbr>
+                     <hi>l.</hi>
+                  </abbr> onely paid for every Exchanged Lot upon the Receit thereof from the Gold<g ref="char:EOLhyphen"/>ſmiths, which will be 16 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for every 16 Benefits; In lieu of 140 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in Mr. <hi>Neals,</hi> and Mr. <hi>Thomas's</hi> ſo that the adventur<g ref="char:EOLhyphen"/>ers will have divided amongſt them by mine more then by theirs, 124 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for every 16 Tickets ſo brought in; which is evi<g ref="char:EOLhyphen"/>dent enough that this is moſt Beneficial to the Adventurers of and will be of publick good.</p>
+            </div>
+            <div type="section"><!-- removed @N: 'proposal' -->
+               <head>A propoſal for making the 10 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Benefit Tickets in the Million adventure, much more valuable then they now are, or will be by Mr. <hi>Neals</hi> and Mr. <hi>Thomas's</hi> Propoſal.</head>
+               <p>Theſe Tickets are to be adventured on the Sixteen Letters, and be received, kept and delivered in the ſame manner and by the ſame perſons as the blank Tickets are in the other propo<g ref="char:EOLhyphen"/>ſal; And when any equal number of them ſhall be brought in upon each letter; if but two, three, four or five, they ſhall be drawn the ſame time the blanks are:</p>
+               <p>The receivers will give the following receit for ſecurity to the propriators of every Benefit Ticket:</p>
+               <p>
+                  <q>Received <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> day of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> 1695. of <hi>A.B</hi> one 10 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Benefit Ticket in the Million adventure <hi>N<hi rend="sup">o</hi>.</hi> 
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> adventured upon the Letter <hi>Q.</hi> on the propoſals publiſht by <hi>R Carter, &amp;c</hi> In lieue of which I pro<g ref="char:EOLhyphen"/>miſe to deliver to the ſaid <hi>A. B.</hi> or Bearer, ſo many Tickets or Debenters of 5 <abbr>
+                        <hi>l.</hi>
+                     </abbr> each, on the <hi>Exchecquer</hi> for ſuch times of pay<g ref="char:EOLhyphen"/>ment as their fortune by this adventure allots them: within 14 days after draw:</q> Each benefit Ticket of 10 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>per Annum,</hi> entitles the propriator to 5 <abbr>
+                     <hi>l.</hi>
+                  </abbr> every ſix months for 32 ſucceſſive payments, and are now ſold for 70 <abbr>
+                     <hi>l.</hi>
+                  </abbr> the price Currant; in lieue whereof by this propoſal, the adventurer will receive the whole in two or three payments; and the Lots are ſo propor<g ref="char:EOLhyphen"/>tioned as to time, that the worſt Lot that can be drawn will be
+<pb n="10" facs="tcp:135554:6"/>worth 90 <abbr>l.</abbr> Allowing intereſt for the time till paid at 10 <hi>per Cent, per Annum,</hi> as will appear upon a plain calculation, which fully makes good that this propoſal will make the ſaid Tic<g ref="char:EOLhyphen"/>kets to be more valuable than now they are, and much better then that propoſed by Mr. <hi>Neal</hi> and Mr. <hi>Thomas,</hi> as by the fol<g ref="char:EOLhyphen"/>lowing Tables both of mine and theirs will appear.</p>
+               <p>If the letter upon which the Ticket is adventured comes up with the firſt year, he ſhall receive in lieue of every Benefited Ticket of 10 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a year by Mr. <hi>Neals</hi> and Mr. <hi>Thomas's</hi> Pro<g ref="char:EOLhyphen"/>poſal.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Firſt year</cell>
+                        <cell> 27 <hi>Tickets of 5<abbr>l.</abbr> each.</hi>
+                        </cell>
+                        <cell>
+                           <hi>whereof</hi> 15</cell>
+                        <cell>
+                           <hi>payable at Lady Day</hi> 1695</cell>
+                        <cell>&amp; 12</cell>
+                        <cell>
+                           <hi>payable Lady day</hi> 1710</cell>
+                     </row>
+                     <row>
+                        <cell>Second</cell>
+                        <cell>27</cell>
+                        <cell>15</cell>
+                        <cell>— 1696</cell>
+                        <cell>12</cell>
+                        <cell>— 1709</cell>
+                     </row>
+                     <row>
+                        <cell>Third</cell>
+                        <cell>30</cell>
+                        <cell>15</cell>
+                        <cell>— 1697</cell>
+                        <cell>15</cell>
+                        <cell>— 1708</cell>
+                     </row>
+                     <row>
+                        <cell>Fourth</cell>
+                        <cell>30</cell>
+                        <cell>15</cell>
+                        <cell>— 1698</cell>
+                        <cell>15</cell>
+                        <cell>— 1707</cell>
+                     </row>
+                     <row>
+                        <cell>Fifth</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1699</cell>
+                        <cell>16</cell>
+                        <cell>— 1706</cell>
+                     </row>
+                     <row>
+                        <cell>Sixth</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1700</cell>
+                        <cell>16</cell>
+                        <cell>— 1705</cell>
+                     </row>
+                     <row>
+                        <cell>Seventh</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1701</cell>
+                        <cell>16</cell>
+                        <cell>— 1704</cell>
+                     </row>
+                     <row>
+                        <cell>Eight</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1702</cell>
+                        <cell>16</cell>
+                        <cell>— 1703</cell>
+                     </row>
+                     <row>
+                        <cell>Ninth</cell>
+                        <cell>32</cell>
+                        <cell>
+                           <hi>Michael</hi> 16</cell>
+                        <cell>
+                           <hi>Michael.</hi> 1703</cell>
+                        <cell>
+                           <hi>and</hi> 16</cell>
+                        <cell>
+                           <hi>Michael.</hi> 1702</cell>
+                     </row>
+                     <row>
+                        <cell>Tenth</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1704</cell>
+                        <cell>16</cell>
+                        <cell>— 1701</cell>
+                     </row>
+                     <row>
+                        <cell>Eleventh</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1705</cell>
+                        <cell>16</cell>
+                        <cell>— 1700</cell>
+                     </row>
+                     <row>
+                        <cell>Twelfth</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1706</cell>
+                        <cell>16</cell>
+                        <cell>— 1699</cell>
+                     </row>
+                     <row>
+                        <cell>Thirteeth</cell>
+                        <cell>30</cell>
+                        <cell>15</cell>
+                        <cell>— 1707</cell>
+                        <cell>15</cell>
+                        <cell>— 1698</cell>
+                     </row>
+                     <row>
+                        <cell>Fourteenth</cell>
+                        <cell>30</cell>
+                        <cell>15</cell>
+                        <cell>— 1708</cell>
+                        <cell>15</cell>
+                        <cell>— 1697</cell>
+                     </row>
+                     <row>
+                        <cell>Fifteenth</cell>
+                        <cell>27</cell>
+                        <cell>12</cell>
+                        <cell>— 1709</cell>
+                        <cell>15</cell>
+                        <cell>— 1696</cell>
+                     </row>
+                     <row>
+                        <cell>Sixteenth</cell>
+                        <cell>27</cell>
+                        <cell>12</cell>
+                        <cell>— 1710</cell>
+                        <cell>15</cell>
+                        <cell>— 1695</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">484</cell>
+                        <cell role="total">242</cell>
+                        <cell> </cell>
+                        <cell role="total">242</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>But if the letter upon which the Ticket is adventured comes up with the firſt year, he ſhall receive in lieue of every Bene<g ref="char:EOLhyphen"/>fited Ticket of 10 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a year by this Propoſal of <hi>Richard Carters,</hi> according to the following Table.</p>
+               <pb n="11" facs="tcp:135554:6"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>** 1ſt</cell>
+                        <cell>29 <hi>Tickets 5<abbr>l.</abbr> each</hi>
+                        </cell>
+                        <cell>
+                           <hi>whereof</hi> 15 <hi>payable</hi>
+                        </cell>
+                        <cell>
+                           <hi>Lady day</hi> 1695 <hi>and</hi>
+                        </cell>
+                        <cell>14</cell>
+                        <cell>
+                           <hi>payable L. day</hi> 1710</cell>
+                        <cell rows="4" cols="2"> </cell>
+                     </row>
+                     <row>
+                        <cell>** 2d</cell>
+                        <cell>29</cell>
+                        <cell>16</cell>
+                        <cell>— 1696 <hi>and</hi>
+                        </cell>
+                        <cell>13</cell>
+                        <cell>— 1709</cell>
+                     </row>
+                     <row>
+                        <cell>** 3d</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1697 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1708</cell>
+                     </row>
+                     <row>
+                        <cell>** 4th</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1698 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1707</cell>
+                     </row>
+                     <row>
+                        <cell>* 5th</cell>
+                        <cell>33</cell>
+                        <cell>16</cell>
+                        <cell>— 1699 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1706</cell>
+                        <cell>
+                           <hi>and</hi> 1</cell>
+                        <cell>
+                           <hi>Mi.</hi> 1709</cell>
+                     </row>
+                     <row>
+                        <cell>* 6th</cell>
+                        <cell>33</cell>
+                        <cell>16</cell>
+                        <cell>— 1700 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1705</cell>
+                        <cell>
+                           <hi>and</hi> 1</cell>
+                        <cell>
+                           <hi>L.D.</hi> 1709</cell>
+                     </row>
+                     <row>
+                        <cell>** 7th</cell>
+                        <cell>34</cell>
+                        <cell>16</cell>
+                        <cell>— 1701 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1704</cell>
+                        <cell>
+                           <hi>and</hi> 2</cell>
+                        <cell>
+                           <hi>Mic.</hi> 1709</cell>
+                     </row>
+                     <row>
+                        <cell>** 8th</cell>
+                        <cell>34</cell>
+                        <cell>16</cell>
+                        <cell>— 1702 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1703</cell>
+                        <cell>
+                           <hi>and</hi> 2</cell>
+                        <cell>
+                           <hi>Mic.</hi> 1710</cell>
+                     </row>
+                     <row>
+                        <cell>** 9th</cell>
+                        <cell>34</cell>
+                        <cell>16</cell>
+                        <cell>
+                           <hi>Michael.</hi> 1703 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>
+                           <hi>Micha.</hi> 1702</cell>
+                        <cell>
+                           <hi>and</hi> 2</cell>
+                        <cell>
+                           <hi>L.D</hi> 1710</cell>
+                     </row>
+                     <row>
+                        <cell>* 10th</cell>
+                        <cell>33</cell>
+                        <cell>16</cell>
+                        <cell>— 1704 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1701</cell>
+                        <cell>
+                           <hi>and</hi> 1</cell>
+                        <cell>
+                           <hi>L.D.</hi> 1695</cell>
+                     </row>
+                     <row>
+                        <cell>* 11th</cell>
+                        <cell>33</cell>
+                        <cell>16</cell>
+                        <cell>— 1705 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1700</cell>
+                        <cell>
+                           <hi>and</hi> 1</cell>
+                        <cell>
+                           <hi>L.D</hi> 1695</cell>
+                     </row>
+                     <row>
+                        <cell>** 12th</cell>
+                        <cell>34</cell>
+                        <cell>16</cell>
+                        <cell>— 1706 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1699</cell>
+                        <cell>
+                           <hi>and</hi> 2</cell>
+                        <cell>
+                           <hi>L.D.</hi> 1709</cell>
+                     </row>
+                     <row>
+                        <cell>** 13th</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1707 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1698</cell>
+                        <cell rows="4" cols="2"> </cell>
+                     </row>
+                     <row>
+                        <cell>** 14th</cell>
+                        <cell>32</cell>
+                        <cell>16</cell>
+                        <cell>— 1708 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1697</cell>
+                     </row>
+                     <row>
+                        <cell>** 15th</cell>
+                        <cell>29</cell>
+                        <cell>13</cell>
+                        <cell>— 1709 <hi>and</hi>
+                        </cell>
+                        <cell>16</cell>
+                        <cell>— 1696</cell>
+                     </row>
+                     <row>
+                        <cell>** 16th</cell>
+                        <cell>29</cell>
+                        <cell>14</cell>
+                        <cell>— 1710 <hi>and</hi>
+                        </cell>
+                        <cell>15</cell>
+                        <cell>— 1695</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">512</cell>
+                        <cell role="total">250</cell>
+                        <cell> </cell>
+                        <cell role="total">250</cell>
+                        <cell> </cell>
+                        <cell role="total">12</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Note, the difference of the two Tables: this laſt of <hi>R. Carters</hi> is better then that of Mr. <hi>Neals</hi> and Mr. <hi>Thomas's</hi> by as many five pounds in every Lot, as there is Stars before it, and for ſame time of payment; being in all 28 Five Pounds in every ſixteen Tickets.</p>
+               <p>Note likewiſe, that the adventurers ſecurity is not altered, but remains upon the act of Parliament to be paid in the <hi>Exchec<g ref="char:EOLhyphen"/>quer,</hi> as appears by the receipt given by the Goldſmiths, who are onely to get them made payable to ſuch and ſuch perſons, and at ſuch and ſuch times as fortune alots the adventurers.</p>
+               <p>Note, <hi>All Tickets that ſhall not be drawn, ſhall be returned again to the Propriator.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
